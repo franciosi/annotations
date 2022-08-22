@@ -17,7 +17,7 @@ service_password: cleartextpassword
 ```
 
 1. We'll encrypt only service_password variable
-  1. Create a key_file that contains a key that will encrypt service_password variable value. Keep this file very safe and  never commit it in git(as i did here)
+  1. Create a key_file that contains a key that will encrypt service_password variable value. Keep this file very safe and  never commit it in git (as I did here, =] )
 
   ```bash
     cat key_file
